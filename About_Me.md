@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ammar Ansari 
+- 👀 I’m interested in SQL, HTML, CSS, JAVASCRIPT 
+- 🏫 I’m pursuing degree in Electronics and Telecommunications 
+- 🤝 I’m looking to collaborate on SQL and Web Designing Projects 
+- 📫 How to reach me ammaransari3121999@gmail.com
