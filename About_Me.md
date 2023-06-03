@@ -2,9 +2,9 @@
 
 🌱 I’m currently pursing degree in **Electronics and Telecommmunication**
 
-🌱 Currently learning **JavaScript**
+🌱 Currently learning **Verilog**
 
-👯 I’m looking to collaborate on **SQL(MySQL or Oracle), HTML**
+👯 I’m looking to collaborate on **RTL Designing and Verification**
 
 📫 How to reach me **ammaransari3121999@gmail.com**
 
